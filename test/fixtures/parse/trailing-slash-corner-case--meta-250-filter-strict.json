@@ -1,0 +1,109 @@
+[
+  [
+    "ignoredEntry",
+    {
+      "type": "Directory",
+      "meta": false,
+      "ignore": true,
+      "path": "99-byte-dirname-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc/",
+      "mode": 493,
+      "uid": 501,
+      "gid": 20,
+      "size": 0,
+      "mtime": "2018-06-19T00:03:11.000Z",
+      "header": {
+        "cksumValid": true,
+        "needPax": false,
+        "path": "99-byte-dirname-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc/",
+        "mode": 493,
+        "uid": 501,
+        "gid": 20,
+        "size": 0,
+        "mtime": "2018-06-19T00:03:11.000Z",
+        "cksum": 13612,
+        "linkpath": "",
+        "devmaj": 0,
+        "devmin": 0
+      }
+    }
+  ],
+  [
+    "meta",
+    "99-byte-dirname-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc/a-truly-unlucky-file-beyond-130-byte-path-length.txt\u0000"
+  ],
+  [
+    "ignoredEntry",
+    {
+      "extended": {
+        "path": "99-byte-dirname-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc/a-truly-unlucky-file-beyond-130-byte-path-length.txt"
+      },
+      "type": "File",
+      "meta": false,
+      "ignore": true,
+      "path": "99-byte-dirname-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc/a-truly-unlucky-file-beyond-130-byte-path-length.txt",
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "size": 560,
+      "mtime": "2018-06-19T00:03:11.000Z",
+      "header": {
+        "cksumValid": true,
+        "needPax": false,
+        "path": "99-byte-dirname-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc/a-truly-unlucky-file-beyond-130-byte-path-length.txt",
+        "mode": 420,
+        "uid": 501,
+        "gid": 20,
+        "size": 560,
+        "mtime": "2018-06-19T00:03:11.000Z",
+        "cksum": 13611,
+        "linkpath": "",
+        "devmaj": 0,
+        "devmin": 0
+      }
+    }
+  ],
+  [
+    "meta",
+    "99-byte-dirname-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc/some-unlucky-file.txt\u0000"
+  ],
+  [
+    "ignoredEntry",
+    {
+      "extended": {
+        "path": "99-byte-dirname-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc/some-unlucky-file.txt"
+      },
+      "type": "File",
+      "meta": false,
+      "ignore": true,
+      "path": "99-byte-dirname-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc/some-unlucky-file.txt",
+      "mode": 420,
+      "uid": 501,
+      "gid": 20,
+      "size": 560,
+      "mtime": "2018-06-18T23:49:44.000Z",
+      "header": {
+        "cksumValid": true,
+        "needPax": false,
+        "path": "99-byte-dirname-ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc/some-unlucky-file.txt",
+        "mode": 420,
+        "uid": 501,
+        "gid": 20,
+        "size": 560,
+        "mtime": "2018-06-18T23:49:44.000Z",
+        "cksum": 13602,
+        "linkpath": "",
+        "devmaj": 0,
+        "devmin": 0
+      }
+    }
+  ],
+  [
+    "nullBlock"
+  ],
+  [
+    "eof"
+  ],
+  [
+    "end"
+  ]
+]
